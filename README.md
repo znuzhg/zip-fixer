@@ -1,4 +1,4 @@
-# 🔧 ZIP FIXER v1
+# 🔧 ZIP FIXER V1
 
 **Gelişmiş ZIP Onarım & Veri Kurtarma Aracı**
 
