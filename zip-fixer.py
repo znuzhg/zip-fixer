@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ZIP Doctor v2
+ZIP FIXER v1
 -------------
 
 Gelişmiş ZIP onarım ve kurtarma aracı.
